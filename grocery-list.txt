@@ -2,3 +2,5 @@ Apples
 Cheese
 Peanut Butter
 Bread
+Chips
+Water
